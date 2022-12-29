@@ -64,3 +64,6 @@ dist/*
 !.htaccess
 !.eslintrc
 .now
+
+#API
+.env
